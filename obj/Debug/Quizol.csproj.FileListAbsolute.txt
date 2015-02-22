@@ -1,0 +1,6 @@
+c:\users\ziinq\documents\visual studio 2013\Projects\Quizol\Quizol\bin\Quizol.dll.config
+c:\users\ziinq\documents\visual studio 2013\Projects\Quizol\Quizol\bin\Quizol.dll
+c:\users\ziinq\documents\visual studio 2013\Projects\Quizol\Quizol\bin\Quizol.pdb
+c:\users\ziinq\documents\visual studio 2013\Projects\Quizol\Quizol\obj\Debug\Quizol.csprojResolveAssemblyReference.cache
+c:\users\ziinq\documents\visual studio 2013\Projects\Quizol\Quizol\obj\Debug\Quizol.dll
+c:\users\ziinq\documents\visual studio 2013\Projects\Quizol\Quizol\obj\Debug\Quizol.pdb
